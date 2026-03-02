@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Varshith-Reddy-M&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-Reddy-M&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote
+> *If you torture the data long enough, it will confess to anything.*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Varshith-Reddy-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
